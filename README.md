@@ -13,7 +13,7 @@ Crawl data video for Dong Hoi Smart City App
 
 **Propose System**
 
- <img src="https://github.com/Lecongquochuy/TraficViolence_RedLightRule/blob/main/train/train_batch0.jpg">
+ <img src="https://github.com/Lecongquochuy/TraficViolence_RedLightRule/blob/main/Results/Psystem.png">
  
    The proposed system is divided into three main stages: object detection,
 vehicle tracking and violation detection. The object detection phase will identify and determine the
@@ -32,7 +32,7 @@ based on information about the vehicle’s position and the stop line, violation
  <img src="https://github.com/Lecongquochuy/TraficViolence_RedLightRule/blob/main/Results/SORT.jpg">
 
  **- Violation detection**
-  <img src=" https://github.com/Lecongquochuy/TraficViolence_RedLightRule/blob/main/Results/result_violated.png">
+  <img src="https://github.com/Lecongquochuy/TraficViolence_RedLightRule/blob/main/Results/result_violated.png">
 
 **RESULTS**
   
